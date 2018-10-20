@@ -1,5 +1,5 @@
 _repo: The-Emperor-Volume-05_5487
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Bell, Clara
@@ -35,5 +35,6 @@ subjects:
 - !lcsh 'Hadrian, Emperor of Rome, 76-138 -- Fiction'
 - !lcc 'PT'
 - !lcsh 'German fiction -- Translations into English'
+- GITenberg
 title: The Emperor — Volume 05
 url: http://www.gutenberg.org/ebooks/5487
